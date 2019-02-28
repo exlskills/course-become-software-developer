@@ -1,17 +1,16 @@
 # This is the *unique* ID of your course
-url_name: template_course
-display_name: My New Course
+url_name: become_software_dev
+display_name: How to Become a Software Developer - The Professional Approach 
 org: EXLskills
 # This is the *unique* ID of your course (again) because we're maintaining compatability with other course formats. If you intend to use this with OLX or another course host, then it can have another value.
-course: template_course
-course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/ap-java-course.jpg
+course: become_software_dev
+course_image: https://cdn-course-logos.exlskills.com/become-software-developer.png
 language: en
-est_minutes: 3600
-primary_topic: Java
-repo_url: https://github.com/exlskills/template-course
+est_minutes: 60
+primary_topic: Career
+repo_url: https://github.com/exlskills/course-become-software-developer.git
 topics:
-  - Java
-  - Template
+  - Career
 headline: Your quick headline goes here!
 description: This is a slightly longer course description that will be shown to users on the course home page.
 info_md: |2
