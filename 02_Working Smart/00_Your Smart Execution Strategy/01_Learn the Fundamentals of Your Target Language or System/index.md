@@ -1,4 +1,4 @@
-Staying focused on your current goal, limit your learning plan to the system and technology you identified as the one that should get you a job at one of the potential employers on your list. Learn the fundamentals, any applicable theory, and best practices as relates to your target. Don’t generalize at this point. Remember, Software Development is a narrow-focused discipline, especially at the entry level. You’ll have plenty of time to expand your horizons after getting a job.
+Staying focused on your current goal, limit your learning plan to the system and technology set you identified as the one that should get you a job at the potential employers on your list. Learn the fundamentals, any applicable theory, and best practices as relates to your target. Don’t generalize at this point. Remember, Software Development is a narrow-focused discipline, especially at the entry level. You’ll have plenty of time to expand your horizons after getting a job.
 
 Get the “what,” “why,” and “how” of your technology (more on w-w-h later) and don’t worry about lining up the stuff you learn against that in other technologies or generic CS.
 

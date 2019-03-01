@@ -10,6 +10,9 @@ Seeking an entry-level Software Developer position seems to be the most popular 
 
 - testing and QA, architects, designers, product managers
 
-- systems and network administrators
+- systems and network administrators, software security
 
 - consultants – a unique role that comprises all others, whatever’s needed to get paid work and succeed in it, client after client  
+
+
+Don't get confused by positions called *engineer* - that's another term for developer, mostly at software companies. Labels including words *guru*, *ninja*, *growth*, *success*, *fellow*, etc. fit into the roles above - ignore the labels, read the job description and requirements. 
