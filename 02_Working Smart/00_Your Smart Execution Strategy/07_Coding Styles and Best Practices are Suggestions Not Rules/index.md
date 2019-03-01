@@ -1,1 +1,3 @@
-## 
+You surely should strive to attain a good coding style and follow Best Practices in your implementations. As a beginner, follow the style of your teaching material. Ignore outside articles and discussions that push some methods over others. Don’t be protective of your style, and when your style is criticized react in a positive way and be grateful for improvement suggestions. 
+
+Ultimately, your style will be the style of the team you join. Internal Coding Standards are rules, published recommendations, and Best Practices – suggestions. By the time you get in a position setting the standards for your team, you’ll be able to separate noise from useful propositions.

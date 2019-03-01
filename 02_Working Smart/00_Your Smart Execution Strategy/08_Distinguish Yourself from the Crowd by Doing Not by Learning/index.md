@@ -1,1 +1,1 @@
-## 
+Every career advisory article tells you, you must distinguish yourself to further your advances. You do it not to win the competition but to attract attention – exactly what you need to land your first Software job! Can you distinguish yourself by becoming an x-thousand-y-hundred-z-nth learner completing a popular course? Hardly. So, from the beginning, you must orient yourself to doing and accomplishing something (your portfolio) vs. scoring course completions. Limit the number of courses you go through, maximize the time spent creating and prototyping. 

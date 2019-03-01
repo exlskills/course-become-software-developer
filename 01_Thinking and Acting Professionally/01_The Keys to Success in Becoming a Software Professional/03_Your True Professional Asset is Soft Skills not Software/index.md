@@ -1,1 +1,3 @@
-## 
+Having the right attitude, being a team player, communicating well, identifying and solving issues, following processes, and suggesting improvements; those things have very little to do with Software theories, but they hugely affect one’s employability and career advancement. 
+
+Ironically, those are called “soft skills”. Soft skills are harder to acquire, maintain, and demonstrate than Software skills. Think what soft skills you’ve gained in your career already, document them in a meaningful and provable way, and use them to your advantage to get hired ahead of those software-theory-only skilled recent graduates who may fill entry-level positions.

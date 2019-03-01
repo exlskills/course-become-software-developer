@@ -1,1 +1,3 @@
-## 
+Don’t look at the what-why-how paradigm in a flat, one-dimensional way. Each “how” leads you to another layer of “what” and “why.” 
+
+As a simple example, a hypothetical text search system has a clear purpose and is hard to implement. Well, the implementation of it is a “how” that you break into sub-layers of what-why-how, till you get it all. Say the system carries out the search by splitting text into parts – this is your next layer of “what“ is done and “why” it is done that leads you to “how” the split is implemented, and so on. 

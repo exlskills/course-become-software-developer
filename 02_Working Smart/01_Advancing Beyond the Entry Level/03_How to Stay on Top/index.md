@@ -1,1 +1,3 @@
-## 
+You’ll figure it out in your particular situation, just like the millions of developers before you did, and those current ones are doing every day. The key to success is the same as when working towards your first software job: act professionally, put business ahead of technology, focus efforts on important things, control factors that influence your decision, manage your learning goals, and produce quality.
+
+Act like a Software Professional.

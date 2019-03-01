@@ -1,1 +1,3 @@
-## 
+In the what-why-how paradigm, code is the easy part of the “how”. 
+
+Historically, the value of code and coders has always been pretty low: commodity, lowest on the pay scale. Think that Open Source emerged as a model to have your code reviewed, fixed, and expanded by others for free – attracting valuable resources while underscoring the zero-value of the code being given away. Nowadays, if your Open Source code is complete and mature enough to represent a worthwhile solution, a controversy emerges on who can use your solution and how (vs. your Open Source code). There is a clear movement in the industry to protect the solution part of the Open Source code via appropriate licensing.

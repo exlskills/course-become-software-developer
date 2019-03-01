@@ -1,1 +1,5 @@
-## 
+What do you see when reading employment ads for Software Professional jobs? Systems, languages, tools, years of experience, degree… Wrong. 
+
+Employers are looking for people who can *deliver results*: players who will score winning points in the next game, actors who will bring sellout crowds to the next movie, Software Professionals who will make the future of the organization they work for successful and thriving.
+
+To become a successful Software Professional you need to get this very early in your journey: you’re out there to score wins for the team and deliver meaningful results for the business - not to accumulate experience, collect certifications or “continuously learn new things”. Secure this fundamental understanding, and it will guide you to success: if you want to become a Software Professional, you must start acting like one now.

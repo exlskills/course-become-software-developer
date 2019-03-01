@@ -1,1 +1,5 @@
-## 
+Think what industry and type of business your strong qualities would appeal to the most. Compile a list of employers. Know who they are and what they look for in terms of commitment and cultural fit. Know what programs they offer or associate with to bring entry-level technical resources on board. People are hired by people – develop connections, ask around, reach out to your friends and family. You know what to do.
+
+Remember, you’ll get hired by an employer that you find and prove to them that you have what that employer needs at the moment. You won’t be found for the tools and systems you learned and posted on your GitHub profile (although, do that too, of course).
+
+Build a list of technologies that your target employers hire entry-level personnel for. Run an overview of those technologies and pick one that appears to be learnable with the resources you have access to. That is your fast-to-learn goal to execute on.

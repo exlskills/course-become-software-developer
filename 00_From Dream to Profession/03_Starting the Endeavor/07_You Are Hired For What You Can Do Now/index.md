@@ -1,1 +1,3 @@
-## 
+There is a popular saying in the Human Resources field: One gets promoted to the next level if he/she already acts at that level, not just shows the potential.
+
+Nothing is truer for getting a Junior Software Developer position: you must demonstrate that you are a Software Professional in order to get a Software Professional job. With the amount of talent in the industry, employers believe that they have better chances of finding someone already at the skill level needed for the job than grooming a promising newcomer. Especially in the popular skills areas that everyone learns and hangs around these days.

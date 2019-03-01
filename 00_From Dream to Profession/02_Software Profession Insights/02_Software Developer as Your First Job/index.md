@@ -1,1 +1,3 @@
-## 
+In a technology-centered industry, in order to become strategic, you must understand and be comfortable with the tactics. 
+
+No other role will give you the necessary exposure to the deep layers of technology as the Developer role will. This doesn’t mean you should pass a chance to get your first Software job in another role, but you should focus on getting a Developer job first and then move in the direction you find workable and attractive.

@@ -1,1 +1,3 @@
-## 
+You will only be hired into an organization where you fit well with your overall personality, interests, attitude, and aspirations. Employers know, you can be sent into a 3-day class to learn a technical tool, but there are no classes that can change you as a person – only adjust.
+
+Think where you fit best and where you’d feel comfortable working, and narrow your job search focus accordingly. Accept the fact that some types of organizations may not be for you, at least not at the moment. There is nothing wrong with that.

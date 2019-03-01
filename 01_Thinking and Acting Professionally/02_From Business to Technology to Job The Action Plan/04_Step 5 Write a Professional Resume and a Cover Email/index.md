@@ -1,1 +1,7 @@
-## 
+Your resume must have all the terms, product names, and versions right for both scanning bots and human readers. Although, don’t put version numbers unless there is a significance to the fact that you learned a particular one vs. another. Don’t make your resume look like a dump of information or a wide net spread out in a desperate attempt to catch someone’s attention. Help the reader understand that you’re for real based on your previous solid soft-skill development career and the tech that you came to know as your entry-level push. No one cares about how many things you’ve heard or watched videos about. Keep in mind, the reader will more likely glance over the resume than study it, so make it easy to absorb at a glance.
+
+Key: the overall content of your Resume and Cover should be tailored to the norms of the local market you’re applying in.
+
+For the US market, keep the Cover brief: just state what experience you’re coming from and what entry level role you can work in today, without making it too cute praising the company and stating how much you can do for it. Are you kidding? You’re asking for an entry-level Software job. Your value should be in your Portfolio, not your words.
+
+Put an effort into making those as perfect as possible, so that you get rejected because there are no openings for what you’re looking for, not because you failed to communicate your fit for an opening you could fill.

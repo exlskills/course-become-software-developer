@@ -1,1 +1,7 @@
-## 
+This is a huge one. Many folks think of a learning platform, online or a bootcamp, as the ultimate magic carpet to step on and get carried to the right destination. In reality, you’re the one who does all the work, including the actual learning and understanding.
+
+Think how much you’ve learned already in your life. You are exposed to technology every day. You already know a lot, and you’ve been learning continuously for many years. The right platform is the one that doesn’t restart your life-long learning but rather continues it in a way that you understand best. And those are hard to find.  
+
+The biggest problem with learning Software technology is not its complexity. It is the lack of a guiding path that is clear to you personally. Think what happens if you are explained a simple topic in a human language that you don’t know – you won’t stand a chance of getting the topic. Now, if the topic is explained to you in a language that you understand – it’s trivial to get! You don’t need to learn a whole different language to understand the essence of a particular topic – you just need the topic to be explained to you in the language you know.
+
+Today’s software systems evolve around concepts already familiar to you in your everyday life and/or common sense for you as a modern individual. Programming syntax can be learned quickly, and very few things need to be memorized. The power of Development Tools replaces memorization and repetition. So, the process of learning Software is really about getting the “what” and “why” of the specific technology, then moving smoothly through the “how” of it. More on this later.

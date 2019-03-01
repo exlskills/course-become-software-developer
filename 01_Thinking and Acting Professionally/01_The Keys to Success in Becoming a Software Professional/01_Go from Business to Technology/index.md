@@ -1,1 +1,3 @@
-## 
+If you’re still asking what technology to learn to get a job – it means you don’t have a strong technology attachment, and that is okay. If you’ve decided somehow that your purpose in life is, say, developing AI – you would not be reading this. You’d be coding in a common language, implementing algorithms to process tons of numbers, and spit out results. Just like millions of developers did before the term AI was coined. And you’d be thinking of your next career move.
+
+So, the answer to the “What Technology to Learn” question is simple: do your research, identify concrete employment potentials based on who you are and what’s available within your reach. Then learn quickly and decisively to the requirements of the specific job.
