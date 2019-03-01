@@ -1,18 +1,21 @@
 # This is the *unique* ID of your course
-url_name: become_software_dev
-display_name: How to Become a Software Developer - The Professional Approach 
+url_name: become_software_developer
+display_name: How to Become a Software Developer
 org: EXLskills
 # This is the *unique* ID of your course (again) because we're maintaining compatability with other course formats. If you intend to use this with OLX or another course host, then it can have another value.
-course: become_software_dev
-course_image: https://cdn-course-logos.exlskills.com/become-software-developer.png
+course: become_software_developer
+course_image: https://cdn-course-logos.exlskills.com/course-become-software-developer.png
 language: en
 est_minutes: 60
 primary_topic: Career
 repo_url: https://github.com/exlskills/course-become-software-developer.git
 topics:
   - Career
-headline: Your quick headline goes here!
-description: This is a slightly longer course description that will be shown to users on the course home page.
+headline: Guiding your journey to a Software Developer job and a successful Software Professional career!
+description: |2
+  This is the EXLskills free and open-source course How to Become a Software Developer. If you're a beginner inspired by a dream of becoming a Software Professional - this is a must-learn material for you. You're crafting the plan of your journey, you're looking for guidance and advice - there is an overload of information, but you don't feel like you have a clear picture and a well-lit path to where you want to be. You're getting overwhelmed with the ever-growing backlog of courses and technologies you think you must master before having a shot at landing a Software Professional job. And it feels like you're falling further behind vs. advancing forward.
+  How to navigate through these obstacles and achieve your goal of getting a first real Software job fast and, most importantly, launch and maintain an ascending professional career in technology - this is what the course is about. 
+  Read on, and start learning the secrets of success in the rewarding and exciting Software Profession.
 info_md: |2
   This is your course's long-form markdown info text. This will be shown to users in the info tab of your course.
 
